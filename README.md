@@ -54,4 +54,8 @@ I'm a passionate developer who loves building cool projects and solving real-wor
 
 ⭐️ From [Phyu Phyu Thin](https://github.com/PhyuPhyuThin-IT)
 
+---
+
+![](https://github.com/PhyuPhyuThin-IT/PhyuPhyuThin-IT/blob/main/github-contribution-grid-snake2.svg)
+
 
